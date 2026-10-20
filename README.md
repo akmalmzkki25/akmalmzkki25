@@ -17,10 +17,9 @@
 
 I am a **Full-Stack AI Native Engineer** and **Data Science graduate from Telkom University** (*Summa Cum Laude, GPA 3.91/4.00 · 1st Outstanding Student*). 
 
-Experienced in architecting and delivering end-to-end AI applications, multimodal generative systems, agentic workflows, and scalable distributed architectures:
-- 🤖 **Agentic & Generative AI**: Engineering production multi-agent systems (Mastra, LangChain, MCP), custom LLM pre-training/fine-tuning (TOBA), and multimodal media generation (Image/Video).
+Experienced in architecting and delivering end-to-end AI applications, multimodal systems, agentic workflows, and scalable distributed architectures:
+- 🤖 **Agentic & Generative AI**: Engineering production multi-agent systems (Mastra, LangChain, MCP), custom LLM pre-training/fine-tuning (TOBA), and multimodal media generation.
 - 🏥 **Healthcare & Enterprise Systems**: Architected **MahvaBridge** (end-to-end clinic operations ERP & WhatsApp AI clinical agent for live patients) and **SPLASHBot** (macroeconomic intelligence platform at Astra International).
-- 🔬 **Research & Publications**: First Author & Presenter at **ICADEIS 2025** on deep learning phytoplankton segmentation in collaboration with BRIN.
 - 🏆 **Competitions & Speaking**: GEMASTIK Data Mining Bronze Medalist, Top 5 Bangkit Academy Capstone, and active technical speaker/mentor in AI & Data Science communities.
 
 ---
@@ -104,12 +103,11 @@ Experienced in architecting and delivering end-to-end AI applications, multimoda
 
 ### 🚀 Highlight Projects
 
-- 🏥 **[MahvaBridge & Mahva Agent](https://github.com/qlipqlopqlap-dev/mahva-utama)**: Unified healthcare operations platform and clinical WhatsApp AI assistant handling patient intake, consultations, e-prescriptions, and automated billing.
-- 🎨 **[XPlor3](https://github.com/akmalmzkki25/xplor3)**: Generative AI studio integrating multi-vendor image and video foundation models (Google Imagen/Veo, ByteDance Seedream/Seedance, OpenAI) with quota management.
-- 📊 **[SPLASHBot (Astra International)](https://github.com/akmalmzkki25/splashbot.app)**: Enterprise macroeconomic analytical chatbot powered by Gemini 1.5 Pro / 2.0 with city-level historical sales reasoning.
+- 🏥 **MahvaBridge & Mahva Agent**: Unified healthcare operations platform and clinical WhatsApp AI assistant handling patient intake, consultations, e-prescriptions, and automated billing.
+- 📊 **SPLASHBot (Astra International)**: Enterprise macroeconomic analytical chatbot powered by Gemini 1.5 Pro / 2.0 with city-level historical sales reasoning.
 - 🇮🇩 **TOBA LLM**: Custom Transformer-based LLM engineered from scratch using PyTorch, specifically trained for Indonesian cultural slang and informal dialogue.
 - 🎥 **Mechalens (AICO)**: AI video automation and creative generation engine integrated with TikTok Business API and Byteplus ModelArk.
-- 🤟 **[Signify](https://github.com/akmalmzkki25/backend-signify)**: Real-time hand gesture sign language recognition mobile backend on GCP Cloud Run (*Top 5 Bangkit Capstone*).
+- 🤟 **Signify**: Real-time hand gesture sign language recognition mobile backend on GCP Cloud Run (*Top 5 Bangkit Capstone*).
 
 ---
 
@@ -118,7 +116,6 @@ Experienced in architecting and delivering end-to-end AI applications, multimoda
 - 🥉 **3rd Bronze Medalist** — Data Mining at **GEMASTIK 2024** (National, 1,000+ competitors)
 - 🥇 **1st Outstanding Student** — Highest Cumulative GPA (3.91) in Data Science, Telkom University
 - 🏆 **Top 5 Product Capstone** — Bangkit Academy 2024 by Google, GoTo, and Traveloka (out of 677 teams)
-- 📝 **First Author & Conference Presenter** — **ICADEIS 2025** (*Belitung Phytoplankton Deep Learning Segmentation*)
 - 🥇 **1st Winner** — Programming ML Predict on Kaggle at **ADIIP 2025**
 - 🥈 **2nd Winner** — Data Slayer 2 Machine Learning Competition (National, 250+ competitors)
 - 🥇 **Gold Medalist** — Indonesian Science Competition for Math (National, 1,000+ competitors)
